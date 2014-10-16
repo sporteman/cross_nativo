@@ -1,0 +1,15 @@
+//
+//  ACDAppDelegate.h
+//  CExample
+//
+//  Created by Deivison Sporteman on 10/15/14.
+//  Copyright (c) 2014 Acordei. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ACDAppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
